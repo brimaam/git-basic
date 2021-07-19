@@ -29,3 +29,6 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+## HELLO
+Here are the added lines at the end of this updated README :) 
